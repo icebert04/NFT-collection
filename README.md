@@ -4,7 +4,7 @@
 
 * Getting acquainted with **Openzeppelin's ERC721Enumerable Contract**
 * Used **Next.js** to write backend APIs code along with the frontend
-* Got API keys from **[Alchemy]**(https://dashboard.alchemyapi.io/) and **[Rinkeby Faucet]**(https://rinkebyfaucet.com/)
+* Got API keys from [Alchemy](https://dashboard.alchemyapi.io/) and [Rinkeby Faucet](https://rinkebyfaucet.com/)
 * npm install **Web3Modal library** in order to connect dApp to the **Metamask** wallet
 * Have an api route which **Opensea** can call to retrieve the metadata for the NFT
 
